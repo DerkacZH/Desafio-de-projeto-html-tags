@@ -1,0 +1,23 @@
+<html>
+   <head>
+    <title>Mudei o Titulo</title>
+   <head>
+   <body>
+   <ol>
+      <li>item 1</li><!--item da lista sem isso não funciona-->   
+      <li>item 2</li>
+      <li>item 3
+         <ol>
+            <li>item 3.1</li>
+            <li>item 3.2</li>
+            <li>item 3.3</li>
+         </ol>
+      </li>
+
+   </ol><!--Lista ordenada-->
+   <ul>
+      <li>item 1</li>
+      <li>item 2</li><!--itens da lista-->
+   </ul><!--Lista não ordenada, inves de ser numerada vai ser marcada-->
+   </body>
+</html> 

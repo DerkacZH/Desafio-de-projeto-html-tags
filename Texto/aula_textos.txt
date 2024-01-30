@@ -1,0 +1,23 @@
+<html>
+   <head>
+    <title>Mudei o Titulo</title>
+   <head>
+   <body>
+   <h1> DIO.me<sup>*</sup><!--fica na parte de cima da palavra--></h1>
+   <h2>Implemente o seu futuro global agora!</h2> <!--H formatação de titulo-->
+   <p>
+    Domine as <strong><u>tecnologias</u></strong> utilizadas pelas empresas <mark>mais inovadoras do mundo!</mark><!--Marca texto-->
+   </p><!--Paragrafo-->
+   <blockquote> 
+   <i> O jeito DiO.me para você ganhar destaque mais rápido.</i>
+   </blockquote><!-- citação-->
+   <h2>
+    Aprenda tecnologia emergentes
+   </h2>
+   <p>
+    sjdbouyagfduwygdaushbysgdowy
+   </p>
+   <h2> sjknmgjdngujd</h2>
+   <p>sjdhaoyusdgoadgoadgosadb</p>
+   </body>
+</html> 

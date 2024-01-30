@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Formulario de Cadastro</title>
+</head>
+<body>
+<blockquote><u><b><i>Programe<sup>*</sup></i></B> o <sub>*</sub> seu <mark>futuro</mark> global agora!</u></blockquote>
+   <!--blockquote serve como uma explicação-->
+   <br>
+   <font color="green" face="'Trebuchet MS', Arial, Tahoma">Progame o seu guturo global agora!</font>
+</body>
+</html>

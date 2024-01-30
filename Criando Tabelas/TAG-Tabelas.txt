@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title> Trabalhando com tabelas</title>
+</head>
+<body>
+   <table summary="Serve pro leitor de tela falar sobre" border="1" width="250" cellspacing="2" cellpadding="5" align="center">
+     <caption>Idade da Familia</caption>
+      <thead>
+      <tr >
+         <th align="center" title="Nome Completo">Nome</th>
+         <th align="center">Idade</th>
+      </thead>
+      </tr>
+      <tbody>
+         <tr>
+            <td>Henrique</td>
+            <td>20</td>
+         </tr>
+         <tr>
+            <td>Helenn</td>
+            <td>21</td>
+         </tr>
+         <tr>
+            <td>Carol</td>
+            <td>30</td>
+         </tr>
+         <tr>
+            <td>Raquel</td>
+            <td>48</td>
+         </tr>
+         <tr>
+            <td>Almir</td>
+            <td>56</td>
+         </tr>
+         <tr>
+            <td>Rosalia</td>
+            <td>77</td>
+         </tr>
+         <tr>
+            <td>Rafael</td>
+            <td>41</td>
+         </tr>
+      </tbody>
+      <tfoot>
+         <tr>
+            <td>Total</td>
+            <td>6</td>
+         </tr>
+      </tfoot>
+   </table>
+   
+</body>
+</html>

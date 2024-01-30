@@ -1,0 +1,2 @@
+a tag <fieldsets> serve para criar um quadrado divisorio no seu formulario,
+Dentro dele tem a tag <legend> onde vc da o nome pra aquele "bloco" separado.

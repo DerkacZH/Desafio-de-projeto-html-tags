@@ -1,0 +1,29 @@
+<html>
+   <head>
+    <title>Mudei o Titulo</title>
+   <head>
+   <body>
+      <h1>Pagina Principal</h1>
+      <ul>
+      <li>
+         <a href="about.html" title="Clique aqui e confirme" target="_blank">DIO.me</a> <!--Target serve pra puxar o _blank (abri uma nova aba quando clica no link) ou _self que continua na mesma aba-->
+      </li>
+      </ul>
+   <a href="#">Eu sou um link</a><!--link-->
+
+   </body>
+</html> 
+
+<html>
+   <head>
+    <title>Mudei o Titulo</title>
+   <head>
+   <body>
+      <h1>Sobre minha empresa</h1>
+      <a href="index.html">Voltar</a>
+   <a href="#">Eu sou um link</a><!--link-->
+
+   </body>
+</html> 
+ancoragem <a href="#nome"></a>
+vou colocar id onde quero que vá na propria pagina 

@@ -1,0 +1,17 @@
+defau <!-pr-brDOCTYPE pt-br
+<!DOCTYPE html>ml>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Trabalhando com Mídias </title>
+</head>
+<body>
+<video controls>
+   <source src="clipe.mp4">
+   <track src="legenda.vtt" kind="captions" srclang="en"><!--Legenda-->
+   <track default src="legenda-pr-br.vtt" kind="captions" srclang="pt-br"><!--Legenda-->
+   Seu navegador não tem suporta a video.
+</video>
+</body>
+</html>
